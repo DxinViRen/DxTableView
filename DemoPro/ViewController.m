@@ -17,7 +17,16 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+
+  //buneg 使用的是xcode插件
+    
 }
+
+- (void)channle{
+
+    
+}
+
 
 
 - (void)didReceiveMemoryWarning {
